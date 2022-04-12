@@ -1,6 +1,6 @@
 # Backend Challenge
 
-Hello and welcome to the SumUp backend technical challenge. This document will
+Hello and welcome to the backend technical challenge. This document will
 outline the challenge and provide you with the information needed in order to
 complete your task.
 
